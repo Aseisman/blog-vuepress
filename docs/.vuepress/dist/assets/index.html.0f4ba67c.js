@@ -1,0 +1,1 @@
+import{_ as t,r as n,o,c,b as r}from"./app.b8bc3f62.js";const l={};function s(_,a){const e=n("SkillList");return o(),c("div",null,[r(e)])}var m=t(l,[["render",s],["__file","index.html.vue"]]);export{m as default};
