@@ -49,6 +49,7 @@ export default defineUserConfig({
   ],
 
   bundler: viteBundler(),
+  base: "/blog-vuepress/",
 
   theme: gungnirTheme({
     repo: "",
